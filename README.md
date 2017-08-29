@@ -1,1 +1,1 @@
-# Bootstrap-Portfolio
+In this file, I created two different portfolios. The first will be an update from the _basicportfolio file. I enhanced _basicportfolio using mobile-responsive layout. The other portfolio I made, I built this layout using the Bootstrap CSS framework.
